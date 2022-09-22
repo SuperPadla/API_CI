@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0277p0rti7fh0d5w?svg=true)](https://ci.appveyor.com/project/SuperPadla/api-ci)
